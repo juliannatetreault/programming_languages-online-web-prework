@@ -1,5 +1,5 @@
 reformatted_languages = {}
 
 def reformat_languages(languages)
-  # your code here
+  reformatted_languages[:ruby] = {type: "interpreted", style: [:oo]}
 end
